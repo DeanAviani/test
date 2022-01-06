@@ -3,6 +3,6 @@
   "info" : {
     "version" : "1.0.100",
     "title" : "",
-    "description" : "description with **markdown** format <img src=x /o/n/e/r/r/o/r>"
+    "description" : "description with **markdown** format <input type=text>"
   }
 }
