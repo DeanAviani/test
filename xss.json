@@ -3,6 +3,6 @@
   "info" : {
     "version" : "1.0.100",
     "title" : "",
-    "description" : "description with **markdown** format <img src=x%09onmouseover=alert(document.cookie)>"
+    "description" : "description with **markdown** format <img src=x onerror>"
   }
 }
