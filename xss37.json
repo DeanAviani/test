@@ -1,0 +1,8 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1.0.100",
+    "title" : "",
+    "description" : "description with **markdown** format <img src=https://www.lastprice.co.il/img/logo.png %26%23x6f%3b%26%23x6e%3b%26%23x6d%3b%26%23x6f%3b%26%23x75%3b%26%23x73%3b%26%23x65%3b%26%23x6f%3b%26%23x76%3b%26%23x65%3b%26%23x72%3b>"
+  }
+}
