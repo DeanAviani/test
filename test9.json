@@ -1,0 +1,8 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1.0.100",
+    "title" : "",
+    "description" : "description with **markdown** format <img src=http://www.google.it/images/logo_sm.gif on%0d%0aload=a>"
+  }
+}
